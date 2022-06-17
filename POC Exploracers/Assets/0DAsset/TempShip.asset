@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66da1e315ccbd764cbd859da18a0263b, type: 3}
+  m_Name: TempShip
+  m_EditorClassIdentifier: 
+  m_isHorizontal: 1
+  m_image: {fileID: 21300000, guid: b0305156ba014074198e87553a28159d, type: 3}
+  m_effectDescription: wapadapadoo
